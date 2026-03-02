@@ -1,4 +1,6 @@
 # Alacritty Config
+A config setup for Alacritty
 
-A config file for Alacritty
-1. `git clone https://codeberg.org/mannpatel/my-alacritty-config.git ~/.config/alacritty && mv .alacritty.toml ~/`
+## INSTALL
+1. `git clone https://codeberg.org/mannpatel/my-alacritty-config.git ~/.config/alacritty`
+2. `mv ~/.config/alacritty/alacritty.toml ~/`
